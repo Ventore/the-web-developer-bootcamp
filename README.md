@@ -1,6 +1,6 @@
 # The Web Developer Bootcamp
 ## Colt Steele's Udemy Course
-![Progress](http://progressed.io/bar/30)
+![Progress](http://progressed.io/bar/35)
 
 Collection of coursework I've done from Colt Steele's Udemy Web Development course
 
@@ -20,3 +20,9 @@ Collection of coursework I've done from Colt Steele's Udemy Web Development cour
 - Photo Grid Bootstrap exercise
 - Blog Post CSS exercise
 - Landing Page Bootstrap exercise
+
+###Javascript
+
+Many solutions to the exercises can be seen by opening the browser console
+
+- Prompt Exercise using prompt() and console.log()
