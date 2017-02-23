@@ -1,6 +1,6 @@
 # The Web Developer Bootcamp
 ## Colt Steele's Udemy Course
-![Progress](http://progressed.io/bar/35)
+![Progress](http://progressed.io/bar/50)
 
 Collection of coursework I've done from Colt Steele's Udemy Web Development course
 
@@ -26,3 +26,11 @@ Collection of coursework I've done from Colt Steele's Udemy Web Development cour
 Many solutions to the exercises can be seen by opening the browser console
 
 - Prompt Exercise using prompt() and console.log()
+- For Loop Exercises
+- While Loop Exercises
+- Using Functions Problem Set
+- Todo List using Arrays
+- Array Problem Set
+- Movie Database, practice with creating Objects
+
+###Interacting with the DOM
