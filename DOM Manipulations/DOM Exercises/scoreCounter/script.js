@@ -35,6 +35,16 @@ playerTwoButton.addEventListener("click", function() {
 });
 
 reset.addEventListener("click", function() {
+  resetGame();
+});
+
+selector.addEventListener("change", function() {
+  selectorNumber.textContent = this.value;
+  win = Number(this.value);
+  resetGame();
+});
+
+function resetGame() {
   playerOneScore = 0;
   playerOneDisplay.textContent = playerOneScore;
   playerOneDisplay.classList.remove("winner");
@@ -42,8 +52,4 @@ reset.addEventListener("click", function() {
   playerTwoDisplay.textContent = playerTwoScore;
   playerTwoDisplay.classList.remove("winner");
   gameOver = false;
-});
-
-selector.addEventListener("change", function() {
-  selectorNumber.textContent = selector.value;
-});
+}
