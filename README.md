@@ -6,6 +6,7 @@ Collection of coursework I've done from Colt Steele's Udemy Web Development cour
 
 ##Projects
 
+- [Color Game](https://github.com/Ventore/projectOne)
 
 
 ---------
@@ -34,3 +35,8 @@ Many solutions to the exercises can be seen by opening the browser console
 - Movie Database, practice with creating Objects
 
 ###Interacting with the DOM
+
+- Intro to Selectors (.getElementById, .getElementByTagName, .querySelector, etc.)
+- Selector Exercise
+- Adding Listeners (.addElementListener)
+- Score Keeper, using .addEventListener, reviewing typecasting, selectors
