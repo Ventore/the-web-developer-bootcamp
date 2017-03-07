@@ -1,12 +1,14 @@
 # The Web Developer Bootcamp
 ## Colt Steele's Udemy Course
-![Progress](http://progressed.io/bar/50)
+![Progress](http://progressed.io/bar/60)
 
 Collection of coursework I've done from Colt Steele's Udemy Web Development course
 
 ##Projects
 
 - [Color Game](https://github.com/Ventore/projectOne)
+- [To-Do App](https://github.com/Ventore/projectTwo)
+- [Patatap Clone](https://github.com/Ventore/projectThree)
 
 
 ---------
@@ -40,3 +42,8 @@ Many solutions to the exercises can be seen by opening the browser console
 - Selector Exercise
 - Adding Listeners (.addElementListener)
 - Score Keeper, using .addEventListener, reviewing typecasting, selectors
+
+###jQuery
+
+- Selector Exercise
+- jQuery Methods
