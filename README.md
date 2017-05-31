@@ -1,6 +1,6 @@
 # The Web Developer Bootcamp
 ## Colt Steele's Udemy Course
-![Progress](http://progressed.io/bar/60)
+![Progress](http://progressed.io/bar/100)
 
 Collection of coursework I've done from Colt Steele's Udemy Web Development course
 
